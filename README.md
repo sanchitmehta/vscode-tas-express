@@ -1,6 +1,6 @@
 # Getting Started
 
-This is a very simple Node application that uses the Express framework. It is designed to work well with [Visual Studio Code](https://code.visualstudio.com) and to be easily deployed to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/), Azure's fully-managed Platform as a Service (PaaS) that let's you deploy and scale web, mobile, and API apps. .
+This is a very simple Node application that uses the Express framework. It is designed to work well with [Visual Studio Code](https://code.visualstudio.com) and to be easily deployed to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/), Azure's fully-managed Platform as a Service (PaaS) that let's you deploy and scale web, mobile, and API apps. ..
 
 ## Running the Application
 
